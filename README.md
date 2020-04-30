@@ -3,10 +3,11 @@
 # Work in Progress!
 
 ## Design Goal
-Design a robot on a omnidirectional moving platform and a minimum of 6 DOF robotic arm.
+Design a robot on an omnidirectional moving platform and a minimum of 6 DOF robotic arm.
 
 ## Parts
 MCUs: STM32F373, ESP32
+
 STM32 will be running real time movements and computations while ESP32 runs external communications
 Communications will be done over UART
 
