@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VBUS_ESP Pin=D1-A
+Removed Pin From Net: NetName=5V Pin=D1-K
+Removed Pin From Net: NetName=VBUS_STM Pin=D2-A
+Removed Pin From Net: NetName=5V Pin=D2-K

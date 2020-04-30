@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C44_BL Old Footprint=0805 - duplicate New Footprint=0402
+Change Component Footprint: Designator=C44_BR Old Footprint=0805 - duplicate New Footprint=0402
+Change Component Footprint: Designator=C44_FL Old Footprint=0805 - duplicate New Footprint=0402
+Change Component Footprint: Designator=C44_FR Old Footprint=0805 - duplicate New Footprint=0402
+Change Component Designator: OldDesignator=!MAX 3S! NewDesignator=CN7
+Change Component Designator: OldDesignator=BL_MOT NewDesignator=CN27
+Change Component Designator: OldDesignator=BR_MOT NewDesignator=CN28
+Change Component Designator: OldDesignator=FL_MOT NewDesignator=CN25
+Change Component Designator: OldDesignator=FR_MOT NewDesignator=CN26
+Added Room: Name=BL
+Added Room: Name=BR
+Added Room: Name=Controller
+Added Room: Name=FL
+Added Room: Name=FR
+Added Room: Name=U_CAN
+Added Room: Name=U_Drive
+Added Room: Name=U_IMU
+Added Room: Name=U_LED
+Added Room: Name=U_MCU
+Added Room: Name=U_Power

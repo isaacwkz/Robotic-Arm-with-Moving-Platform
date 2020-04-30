@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+isaac
+K 8
+svn:date
+V 27
+2020-04-20T12:10:30.027350Z
+K 7
+svn:log
+V 41
+Changed schematics to use DRV8843 instead
+END
