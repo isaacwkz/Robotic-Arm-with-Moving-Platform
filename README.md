@@ -16,7 +16,8 @@ Sensor: MPU6050 I2C, SRF02 I2C sonar
 
 Main motor drivers: DRV8843S (10A peak)
 
-Motors: LX-224 (20kg), LX-16A (17kg)
+Servos: LX-224 (20kg), LX-16A (17kg)
+
 Servos are controlled from half-duplex UART
 
 ## Current Status
