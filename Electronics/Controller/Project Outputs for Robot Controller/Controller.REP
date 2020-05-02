@@ -2,6 +2,179 @@
 FileName = Controller.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 1
+      File : Controller.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Controller.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Controller.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D31
+    D35
+    D36
+    D37
+    D39
+    D40
+    D56
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Controller.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Controller.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
 Generating : Bottom Layer
       File : Controller.GBL
 
@@ -15,25 +188,24 @@ Used DCodes :
     D11
     D13
     D15
-    D83
     D84
-    D86
-    D90
+    D85
+    D87
     D91
     D92
-    D94
+    D93
     D95
+    D96
     D112
-    D123
     D124
+    D125
     D126
     D127
     D128
-    D135
-    D136
-    D137
+    D129
+    D133
     D140
-    D148
+    D142
     D149
     D150
     D151
@@ -65,6 +237,7 @@ Used DCodes :
     D177
     D178
     D179
+    D180
 *************************************************************
 
 *************************************************************
@@ -169,178 +342,6 @@ Used DCodes :
     D165
     D166
     D167
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Controller.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Controller.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Controller.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D19
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Controller.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-    D30
-    D34
-    D35
-    D36
-    D38
-    D39
-    D56
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D180
-    D181
-    D182
-    D183
-    D184
-    D185
-    D186
-    D187
-    D188
-    D189
-    D190
-    D191
-    D192
-    D193
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Controller.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
+    D168
 *************************************************************
 
