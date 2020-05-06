@@ -22,5 +22,7 @@ Servos are controlled from half-duplex UART
 
 ## Current Status
 - A PCB has been sent for fabrication.
+	- 06 May edit: PCB did not meet trace width clearance requirement. Current rerouting the board.
 - A rough sketch of the robotic arm (minus the gripper) has been completed and 3D printed.
 	- Improve on current arm design, add second servo to lower joints for higher carrying capacity.
+![CAD Render](https://raw.githubusercontent.com/isaacwkz/Robotic-Arm-with-Moving-Platform/master/Pictures/Mech-2020-05-04.jpg)
