@@ -1,0 +1,12 @@
+Added Component: Designator=CN7(2.5mm-2P)
+Added Pin To Net: NetName=GND Pin=CN7-2
+Added Pin To Net: NetName=NetCN7_1 Pin=CN7-1
+Added Pin To Net: NetName=NetCN7_1 Pin=U1-11
+Added Net: Name=NetCN7_1
+Added Member To Class: ClassName=U_Power Member=Component C4 Cap
+Added Member To Class: ClassName=U_Power Member=Component C5 Cap
+Added Member To Class: ClassName=U_Power Member=Component C6 Cap
+Added Member To Class: ClassName=U_DRV8873 Member=Component C9 Cap
+Added Member To Class: ClassName=U_DRV8873 Member=Component C11 Cap
+Added Member To Class: ClassName=U_DRV8873 Member=Component C12 Cap
+Added Member To Class: ClassName=ESC Member=Component CN7 2P-2.5mm
