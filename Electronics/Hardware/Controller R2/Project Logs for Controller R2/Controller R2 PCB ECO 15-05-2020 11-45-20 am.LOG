@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5V Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Member From Class: ClassName=U_Power Member=C37
+Change Component Footprint: Designator=C36 Old Footprint=8x10.2 Cap New Footprint=10x12mm-Electrolytic
+Added Member To Class: ClassName=U_Power Member=Component C33 Cap

@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : ESP-WROOM-32.LibPkg
+
+Section : C:\2_Development\Robot_arm\Electronics\Controller\Symbols and Footprints\ESP-WROOM-32.lia
+    Section : PCB Library - ESP-WROOM-32.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ESP-WROOM-32 On Line 533
+            Warning - 1 : Skipping Token attachedSymbol On Line 940
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*MODULE_ESP-WROOM-32][Primary] associated with PCAD Component [ESP-WROOM-32] has been renamed to PCB FootPrint [ESP-WROOM-32].
+        EndSection
+    EndSection
+
+    Section : SCH Library - ESP-WROOM-32.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 137
+            Warning - 1 : Skipping Token layerContents On Line 157
+            Warning - 1 : Skipping Token layerContents On Line 262
+            Warning - 1 : Skipping Token layerContents On Line 367
+            Warning - 1 : Skipping Token layerContents On Line 387
+            Warning - 1 : Skipping Token layerContents On Line 405
+            Warning - 1 : Skipping Token layerContents On Line 425
+        EndSection
+
+        Section : Generating SCH Library - ESP-WROOM-32.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*MODULE_ESP-WROOM-32][Primary] associated with PCAD Component [ESP-WROOM-32] has been renamed to PCB FootPrint [ESP-WROOM-32].
+        EndSection
+    EndSection
+EndSection
