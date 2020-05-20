@@ -1,0 +1,550 @@
+Protel Design System Design Rule Check
+PCB File : C:\2_Development\Robotic-Arm-with-Moving-Platform\Electronics\Hardware\Controller R2\Controller R2.PcbDoc
+Date     : 21/05/2020
+Time     : 1:57:00 am
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad CN10-A(76.734mm,27.949mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN10-A(76.734mm,27.949mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN10-K(73mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN14-A(68mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN14-A(68mm,28mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN14-K(64.266mm,28.051mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN15-K(82mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN16-A(59mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN16-A(59mm,28mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN16-K(55.266mm,28.051mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN17-A(94.734mm,27.949mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN17-A(94.734mm,27.949mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN17-K(91mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN18-A(50mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN18-A(50mm,28mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN18-K(46.266mm,28.051mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-1(96mm,59.84mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-1(96mm,59.84mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-2(96mm,62.38mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-2(96mm,62.38mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-3(96mm,64.92mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-3(96mm,64.92mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-4(96mm,67.46mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-4(96mm,67.46mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-5(96mm,70mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-5(96mm,70mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-6(96mm,72.54mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-6(96mm,72.54mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-7(96mm,75.08mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-7(96mm,75.08mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-8(96mm,77.62mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-8(96mm,77.62mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,59.84mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,62.38mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,64.92mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,67.46mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,70mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,72.54mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,75.08mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-N(101mm,77.62mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,59.84mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,62.38mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,64.92mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,67.46mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,70mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,72.54mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,75.08mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN23-P(98.5mm,77.62mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN24-1(45.55mm,63mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN24-1(45.55mm,63mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN24-2(43.05mm,63mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN24-2(43.05mm,63mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN24-3(40.55mm,63mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-1(34.075mm,72.73mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-1(34.075mm,72.73mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-2(34.075mm,70.19mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-2(34.075mm,70.19mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-3(34.075mm,67.65mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-3(34.075mm,67.65mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-4(34.075mm,65.11mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-4(34.075mm,65.11mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-5(34.075mm,62.57mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-5(34.075mm,62.57mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-N(29.075mm,62.57mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-N(29.075mm,65.11mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-N(29.075mm,67.65mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-N(29.075mm,70.19mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-N(29.075mm,72.73mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-P(31.575mm,62.57mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-P(31.575mm,65.11mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-P(31.575mm,67.65mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-P(31.575mm,70.19mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN27-P(31.575mm,72.73mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN28-1(89.075mm,55.45mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN28-1(89.075mm,55.45mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN28-2(86.535mm,55.45mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN28-3(89.075mm,57.99mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN28-3(89.075mm,57.99mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN28-4(86.535mm,57.99mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN29-1(34.125mm,77.8mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN29-1(34.125mm,77.8mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN29-2(31.625mm,77.8mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN29-3(29.125mm,77.8mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-1(35.4mm,95.01mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-1(35.4mm,95.01mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-2(35.4mm,92.47mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-2(35.4mm,92.47mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-3(35.4mm,89.93mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-3(35.4mm,89.93mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-4(35.4mm,87.39mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-4(35.4mm,87.39mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-5(35.4mm,84.85mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-5(35.4mm,84.85mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-6(35.4mm,82.31mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN5-6(35.4mm,82.31mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-1(39.55mm,75.225mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-1(39.55mm,75.225mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-2(42.09mm,75.225mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-2(42.09mm,75.225mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-3(44.63mm,75.225mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-3(44.63mm,75.225mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-4(47.17mm,75.225mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-4(47.17mm,75.225mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-5(49.71mm,75.225mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-5(49.71mm,75.225mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-6(52.25mm,75.225mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN6-6(52.25mm,75.225mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN7-1(61.3mm,84.625mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN7-1(61.3mm,84.625mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN7-2(61.3mm,82.125mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN7-2(61.3mm,82.125mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN7-3(61.3mm,79.625mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-1(83.16mm,66.36mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-1(83.16mm,66.36mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-2(85.7mm,66.36mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-2(85.7mm,66.36mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-3(88.24mm,66.36mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-3(88.24mm,66.36mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-4(83.16mm,68.9mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-4(83.16mm,68.9mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-5(85.7mm,68.9mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-5(85.7mm,68.9mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad CN9-6(88.24mm,68.9mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(26.75mm,50mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(26.75mm,50mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(28mm,102mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(34mm,54.125mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(34mm,54.125mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(34mm,58.45mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(34mm,58.45mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(40.3mm,27.2mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(40.3mm,27.2mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(83.3mm,74mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-1(83.3mm,74mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(102mm,102mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(26.75mm,47.5mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(26.75mm,47.5mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(31.5mm,54.125mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(31.5mm,54.125mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(31.5mm,58.45mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(31.5mm,58.45mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(37.8mm,27.2mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(37.8mm,27.2mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(85.8mm,74mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-2(85.8mm,74mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(102mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(26.75mm,45mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(26.75mm,45mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(29mm,54.125mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(29mm,58.45mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(35.3mm,27.2mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(35.3mm,27.2mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(88.3mm,74mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-3(88.3mm,74mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad Free-4(28mm,28mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-S(61.7mm,102mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J1-S(68.3mm,102mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J2-S(76mm,102mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad J2-S(82.6mm,102mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad LS1-A(77.325mm,48.775mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad LS1-K(69.725mm,48.775mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad LS1-K(69.725mm,48.775mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-1(56mm,39.71mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-2(56mm,38mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-2(56mm,38mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-3(56mm,36.29mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-3(56mm,36.29mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-4(56mm,34.58mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-4(56mm,34.58mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-5(56mm,32.87mm) on Multi-Layer And Polygon Region (2982 hole(s)) Inner 1 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Pad U9-5(56mm,32.87mm) on Multi-Layer And Polygon Region (314 hole(s)) Inner 2 Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100.4mm,29.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100.4mm,56.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100.4mm,71.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100.4mm,90.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100.8mm,104mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100.8mm,32mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100.8mm,92.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100mm,43.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100mm,89.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (100mm,99.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.2mm,31.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.2mm,39.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.2mm,48.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.2mm,52mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.2mm,56.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.2mm,87.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.6mm,33.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.6mm,51.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.6mm,52.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.6mm,83.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (101.6mm,86.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,25.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,32mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,40mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,48mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,49.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,51.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,60.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,64mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,67.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,70.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,73.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,75.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,76.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,83.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,84.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.4mm,96mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,100mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,31.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,32.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,50.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,55.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,58.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,60mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,61.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,69.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,71.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,76mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,84mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,87.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,95.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102.8mm,96.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102mm,36mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102mm,37.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102mm,40.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102mm,52mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102mm,56.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102mm,82.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (102mm,84mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,104mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,30.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,32mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,33.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,36.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,40mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,44.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,48mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,49.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,51.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,52.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,56mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,57.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,59.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,60.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,62.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,64mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,65.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,67.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,70.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,72mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,73.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,75.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,80mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,83.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,84.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,86.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,92.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,94.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,96mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.2mm,99.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,100mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,26.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,29.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,31.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,36mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,40.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,44mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,48.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,50.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,52mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,55.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,56.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,58.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,60mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,61.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,63.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,64.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,66.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,68mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,69.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,71.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,72.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,74.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,79.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,82.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,84mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,85.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,87.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,92mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,93.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,95.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (103.6mm,96.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,100mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,101.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,28mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,29.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,31.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,32.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,36mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,37.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,79.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,82.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,84mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,85.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,87.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,92mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,93.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,95.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104.4mm,96.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,100.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,27.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,28.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,30.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,32mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,33.6mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,36.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,80mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,83.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,84.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,86.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,92.8mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,94.4mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,96mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (104mm,99.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (2982 hole(s)) Inner 1 And Via (99.2mm,99.2mm) from Top Layer to Bottom Layer Location : [X = 0mm][Y = 0mm]
+Rule Violations :328
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Track (73.5mm,75.131mm)(73.5mm,75.5mm) on Bottom Layer And Track (73.975mm,75.475mm)(74mm,75.5mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=5mm) (Preferred=0.25mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (44.945mm,28.127mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (45.047mm,27.34mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (45.123mm,28.864mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (45.555mm,29.321mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (46.241mm,26.552mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (46.241mm,29.524mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (46.901mm,26.781mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (47.409mm,27.263mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (47.435mm,28.787mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (47.562mm,28.025mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (48.705mm,28.076mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (48.781mm,27.34mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (48.908mm,28.787mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (49.263mm,26.781mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (49.39mm,29.245mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (50.025mm,29.473mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (50.635mm,26.755mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (50.711mm,29.245mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (51.118mm,27.187mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (51.175mm,65.025mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (51.321mm,28mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (53.945mm,28.127mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (54.047mm,27.34mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (54.123mm,28.864mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (54.555mm,29.321mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (55.241mm,26.552mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (55.241mm,29.524mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (55.901mm,26.781mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (56.409mm,27.263mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (56.435mm,28.787mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (56.562mm,28.025mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (57.705mm,28.076mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (57.781mm,27.34mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (57.908mm,28.787mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (58.263mm,26.781mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (58.39mm,29.245mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (59.025mm,29.473mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (59.635mm,26.755mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (59.711mm,29.245mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (60.118mm,27.187mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (60.321mm,28mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (61.875mm,65.875mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (62.945mm,28.127mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (63.047mm,27.34mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (63.123mm,28.864mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (63.555mm,29.321mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (64.241mm,26.552mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (64.241mm,29.524mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (64.901mm,26.781mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (65.409mm,27.263mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (65.435mm,28.787mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (65.562mm,28.025mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (65.5mm,65.575mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (66.705mm,28.076mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (66.781mm,27.34mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (66.908mm,28.787mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (67.263mm,26.781mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (67.39mm,29.245mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (67.725mm,65.3mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (68.025mm,29.473mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (68.635mm,26.755mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (68.711mm,29.245mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (69.118mm,27.187mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (69.321mm,28mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (71.679mm,28.076mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (71.781mm,27.289mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (71.857mm,28.813mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (72.289mm,29.27mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (72.975mm,26.501mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (72.975mm,29.473mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (73.635mm,26.73mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (74.143mm,27.213mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (74.168mm,28.737mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (74.295mm,27.975mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (75.075mm,62.82mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (75.438mm,28.025mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (75.515mm,27.289mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (75.642mm,28.737mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (75.997mm,26.73mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (76.124mm,29.194mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (76.325mm,62.675mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (76.759mm,29.422mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (77.369mm,26.705mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (77.445mm,29.194mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (77.851mm,27.136mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (77.95mm,62.625mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (78.055mm,27.949mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (80.679mm,28.076mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (80.781mm,27.289mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (80.857mm,28.813mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (81.289mm,29.27mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (81.975mm,26.501mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (81.975mm,29.473mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (82.635mm,26.73mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (83.143mm,27.213mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (83.168mm,28.737mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (83.295mm,27.975mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (84.438mm,28.025mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (84.515mm,27.289mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (84.642mm,28.737mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (84.997mm,26.73mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (85.124mm,29.194mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (85.759mm,29.422mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (86.369mm,26.705mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (86.445mm,29.194mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (86.851mm,27.136mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (87.055mm,27.949mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.075mm < 0.076mm) Via (87.1mm,83.7mm) from Top Layer to Bottom Layer (Annular Ring=0.075mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (89.679mm,28.076mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (89.781mm,27.289mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (89.857mm,28.813mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (90.289mm,29.27mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (90.975mm,26.501mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (90.975mm,29.473mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (91.635mm,26.73mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (92.143mm,27.213mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (92.168mm,28.737mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (92.295mm,27.975mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (93.438mm,28.025mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (93.515mm,27.289mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (93.642mm,28.737mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (93.997mm,26.73mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (94.124mm,29.194mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (94.759mm,29.422mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (95.369mm,26.705mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (95.445mm,29.194mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (95.851mm,27.136mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (0.038mm < 0.076mm) Via (96.055mm,27.949mm) from Top Layer to Bottom Layer (Annular Ring=0.038mm) On (Top Layer)
+Rule Violations :128
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (0.173mm < 0.254mm) Between Pad CN10-K(73mm,28mm) on Multi-Layer And Via (71.679mm,28.076mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.253mm < 0.254mm) Between Pad CN10-K(73mm,28mm) on Multi-Layer And Via (71.857mm,28.813mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.238mm < 0.254mm) Between Pad CN10-K(73mm,28mm) on Multi-Layer And Via (74.143mm,27.213mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.231mm < 0.254mm) Between Pad CN10-K(73mm,28mm) on Multi-Layer And Via (74.168mm,28.737mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.146mm < 0.254mm) Between Pad CN10-K(73mm,28mm) on Multi-Layer And Via (74.295mm,27.975mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.148mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (84.438mm,28.025mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.237mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (84.515mm,27.289mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.196mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (84.642mm,28.737mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.236mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (85.124mm,29.194mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.247mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (86.369mm,26.705mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.232mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (86.851mm,27.136mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.245mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (86.902mm,28.711mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.171mm < 0.254mm) Between Pad CN15-A(85.734mm,27.949mm) on Multi-Layer And Via (87.055mm,27.949mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.173mm < 0.254mm) Between Pad CN15-K(82mm,28mm) on Multi-Layer And Via (80.679mm,28.076mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.253mm < 0.254mm) Between Pad CN15-K(82mm,28mm) on Multi-Layer And Via (80.857mm,28.813mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.238mm < 0.254mm) Between Pad CN15-K(82mm,28mm) on Multi-Layer And Via (83.143mm,27.213mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.231mm < 0.254mm) Between Pad CN15-K(82mm,28mm) on Multi-Layer And Via (83.168mm,28.737mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.146mm < 0.254mm) Between Pad CN15-K(82mm,28mm) on Multi-Layer And Via (83.295mm,27.975mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.173mm < 0.254mm) Between Pad CN16-K(55.266mm,28.051mm) on Multi-Layer And Via (53.945mm,28.127mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.253mm < 0.254mm) Between Pad CN16-K(55.266mm,28.051mm) on Multi-Layer And Via (54.123mm,28.864mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.238mm < 0.254mm) Between Pad CN16-K(55.266mm,28.051mm) on Multi-Layer And Via (56.409mm,27.263mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.231mm < 0.254mm) Between Pad CN16-K(55.266mm,28.051mm) on Multi-Layer And Via (56.435mm,28.787mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.146mm < 0.254mm) Between Pad CN16-K(55.266mm,28.051mm) on Multi-Layer And Via (56.562mm,28.025mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.236mm < 0.254mm) Between Pad CN17-A(94.734mm,27.949mm) on Multi-Layer And Via (94.124mm,29.194mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.232mm < 0.254mm) Between Pad CN17-A(94.734mm,27.949mm) on Multi-Layer And Via (95.851mm,27.136mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.171mm < 0.254mm) Between Pad CN17-A(94.734mm,27.949mm) on Multi-Layer And Via (96.055mm,27.949mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.148mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (48.705mm,28.076mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.237mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (48.781mm,27.34mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.196mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (48.908mm,28.787mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.236mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (49.39mm,29.245mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.247mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (50.635mm,26.755mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.232mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (51.118mm,27.187mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.245mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (51.168mm,28.762mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.171mm < 0.254mm) Between Pad CN18-A(50mm,28mm) on Multi-Layer And Via (51.321mm,28mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.173mm < 0.254mm) Between Pad CN18-K(46.266mm,28.051mm) on Multi-Layer And Via (44.945mm,28.127mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.253mm < 0.254mm) Between Pad CN18-K(46.266mm,28.051mm) on Multi-Layer And Via (45.123mm,28.864mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.238mm < 0.254mm) Between Pad CN18-K(46.266mm,28.051mm) on Multi-Layer And Via (47.409mm,27.263mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.231mm < 0.254mm) Between Pad CN18-K(46.266mm,28.051mm) on Multi-Layer And Via (47.435mm,28.787mm) from Top Layer to Bottom Layer 
+   Violation between Hole To Hole Clearance Constraint: (0.146mm < 0.254mm) Between Pad CN18-K(46.266mm,28.051mm) on Multi-Layer And Via (47.562mm,28.025mm) from Top Layer to Bottom Layer 
+Rule Violations :39
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (0mm < 0.2mm) Between Board Edge And Text "PWM Output " (104.391mm,63.203mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.032mm < 0.2mm) Between Board Edge And Track (39.7mm,104.905mm)(57.7mm,104.905mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.032mm < 0.2mm) Between Board Edge And Track (39.7mm,98.405mm)(39.7mm,104.905mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (0.032mm < 0.2mm) Between Board Edge And Track (57.7mm,98.405mm)(57.7mm,104.905mm) on Top Overlay 
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:05
