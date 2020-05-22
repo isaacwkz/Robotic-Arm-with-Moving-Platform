@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\2_Development\Robotic-Arm-with-Moving-Platform\Electronics\Hardware\Controller R2\Controller R2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=controller r2-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=controller r2-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

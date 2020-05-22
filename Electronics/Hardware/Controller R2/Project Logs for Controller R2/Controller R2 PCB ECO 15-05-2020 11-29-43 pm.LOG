@@ -1,6 +1,0 @@
-Added Component: Designator=R25(0805 - duplicate)
-Added Component: Designator=R26(0805 - duplicate)
-Added Pin To Net: NetName=NetCN30_3 Pin=R25-1
-Added Pin To Net: NetName=5V Pin=R25-2
-Added Pin To Net: NetName=NetCN30_2 Pin=R26-1
-Added Pin To Net: NetName=5V Pin=R26-2
