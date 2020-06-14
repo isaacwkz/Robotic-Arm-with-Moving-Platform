@@ -27,3 +27,6 @@ Servos are controlled from half-duplex UART
 - A rough sketch of the robotic arm (minus the gripper) has been completed and 3D printed.
 	- Improve on current arm design, add second servo to lower joints for higher carrying capacity.
 ![CAD Render](https://raw.githubusercontent.com/isaacwkz/Robotic-Arm-with-Moving-Platform/master/Pictures/Mech-2020-05-04.jpg)
+- PCB has arrived and assembled - both controller and ESC
+	- A minor issue, wrong decoupling capacitor footprint was use. The 0402 footprint used is 0402M and not 0402 imperial
+- Next step is to write the drivers for the various peripherals on STM32 before moving on to wireless PC communication via ESP32
